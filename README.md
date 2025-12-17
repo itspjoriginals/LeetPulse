@@ -68,7 +68,7 @@ LeetPulse/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/leetpulse.git
+git clone https://github.com/itspjoriginals/LeetPulse
 cd leetpulse
 ```
 
@@ -141,9 +141,9 @@ This prevents invalid API requests.
 **Prashant Kumar Jha**
 Web Developer | DSA Enthusiast | Frontend Engineer
 
-* 💼 LinkedIn: *(add link)*
-* 🧠 LeetCode: *(add username)*
-* 🧑‍💻 GitHub: *(add link)*
+* 💼 **LinkedIn:** [itspjoriginals](https://www.linkedin.com/in/itspjoriginals/)
+* 🧠 **LeetCode:** [itspjoriginals](https://leetcode.com/u/itspjoriginals/)
+* 🧑‍💻 **GitHub:** [itspjoriginals](https://github.com/itspjoriginals)
 
 ---
 
